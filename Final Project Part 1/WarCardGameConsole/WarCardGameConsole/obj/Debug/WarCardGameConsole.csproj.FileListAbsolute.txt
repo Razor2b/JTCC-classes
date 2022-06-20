@@ -1,0 +1,7 @@
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 1\WarCardGameConsole\WarCardGameConsole\bin\Debug\WarCardGameConsole.exe.config
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 1\WarCardGameConsole\WarCardGameConsole\bin\Debug\WarCardGameConsole.exe
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 1\WarCardGameConsole\WarCardGameConsole\bin\Debug\WarCardGameConsole.pdb
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 1\WarCardGameConsole\WarCardGameConsole\obj\Debug\WarCardGameConsole.csprojAssemblyReference.cache
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 1\WarCardGameConsole\WarCardGameConsole\obj\Debug\WarCardGameConsole.csproj.CoreCompileInputs.cache
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 1\WarCardGameConsole\WarCardGameConsole\obj\Debug\WarCardGameConsole.exe
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 1\WarCardGameConsole\WarCardGameConsole\obj\Debug\WarCardGameConsole.pdb

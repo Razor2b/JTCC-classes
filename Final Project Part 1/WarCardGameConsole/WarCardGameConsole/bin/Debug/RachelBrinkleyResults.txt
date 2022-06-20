@@ -1,0 +1,9 @@
+Computer's score is: 20
+Player's score is: 32
+Player won!
+Computer's score is: 28
+Player's score is: 24
+Computer Won!
+Computer's score is: 34
+Player's score is: 18
+Computer Won!

@@ -1,0 +1,11 @@
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.exe.config
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.exe
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\bin\Debug\WarCardGameGUI.pdb
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.csprojAssemblyReference.cache
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.MainWindow.resources
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.GameWindow.resources
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.Properties.Resources.resources
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.csproj.GenerateResource.cache
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.csproj.CoreCompileInputs.cache
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.exe
+C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.pdb

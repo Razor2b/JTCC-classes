@@ -9,3 +9,5 @@ C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project P
 C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.csproj.CoreCompileInputs.cache
 C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.exe
 C:\Users\Rachel Brinkley.DESKTOP-VK0Q8VS\git\JTCC-classes\ITP136\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.pdb
+C:\Users\rache\Git\JTCCclasses\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.exe
+C:\Users\rache\Git\JTCCclasses\Final Project Part 2\WarCardGameGUI\WarCardGameGUI\obj\Debug\WarCardGameGUI.pdb
